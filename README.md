@@ -57,7 +57,7 @@ GtkTerm has a few dependencies-
 
 Once these dependencies are installed, most people should simply run:
 
-    ./configure
+	./autogen.sh
     make
     #  And to install:
     make install

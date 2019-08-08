@@ -12,7 +12,7 @@ Applicationsdir = /usr/share/applications
 Applications_DATA = gtkterm.desktop
 
 #the application icon
-appicondir=$(datadir)/icons/hicolor/scalable/apps
+appicondir=/usr/share/icons/hicolor/scalable/apps
 appicon_DATA=gtkterm.png
 
 #icons in the application
